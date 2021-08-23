@@ -1,1 +1,1 @@
-This is conflict  changes made by git1
+THIS :This is conflict  changes made by git1
